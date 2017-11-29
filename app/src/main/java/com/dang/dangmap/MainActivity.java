@@ -1,4 +1,4 @@
-package com.dang.dangmap;
+﻿package com.dang.dangmap;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private Context mContext;
-
+	// this  is  git test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
